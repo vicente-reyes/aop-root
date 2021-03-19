@@ -17,20 +17,7 @@
 
     <main id="main">
 
-    <?= $this->include('include/section/about') ?>
-
-    <?= $this->include('include/section/team') ?>
-
-    <?= $this->include('include/section/counts') ?>
-
-    <?= $this->include('include/section/contact') ?>
-
-
-
-
-    
-
-    
+    <?= $this->include('include/section/services') ?>
 
     </main>
     

@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     <div class="member-info">
-                        <h4>Nombre Apellido</h4>
+                        <h4>Luis Ramirez</h4>
                         <span>Chief Executive Officer</span>
                     </div>
                 </div>
